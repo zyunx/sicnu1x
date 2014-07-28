@@ -1,0 +1,19 @@
+[1] AF_PACKET socket
+http://www.microhowto.info/howto/send_an_arbitrary_ethernet_frame_using_an_af_packet_socket_in_c.html
+
+[1.5] What is 802.1x?
+http://www.networkworld.com/article/2216499/wireless/what-is-802-1x-.html
+
+[2] Extensible Authentication Protocol (EAP)
+rfc3748
+
+[3] CHAP
+rfc1994
+
+[4] PPP EAP
+rfc2284
+
+[5] tcpdump, used to capture the real EAPoE to analyze and emulate.
+http://www.tcpdump.org
+
+[6] http://www.vocal.com/secure-communication/eapol-extensible-authentication-protocol-over-lan/
